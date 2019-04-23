@@ -2,5 +2,5 @@
 The name is pretty self explanatory
 
 
-Greetings Earthlings.
+Greetings fellow Humans.
 The name's Davidus. I am new to this site but not to coding (Java Basics)
