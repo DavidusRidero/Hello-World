@@ -1,5 +1,5 @@
 # Hello-World
-The name is self explanatory
+The name is pretty self explanatory
 
 
 Greetings Earthlings.
